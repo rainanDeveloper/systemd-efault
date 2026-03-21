@@ -1,3 +1,11 @@
+# Systemd-fault - a non-compliant `systemd` fork
+
+A fork of systemd focused on preserving software freedom, user autonomy, and privacy - regardless of external regulatory pressures.
+
+This repository tracks upstream systemd closely, while providing a safeguard against potential changes driven by restrictive legislation or compliance requirements that may negatively impact end users.
+
+The original README is included below.
+
 ![Systemd](http://brand.systemd.io/assets/page-logo.png)
 
 System and Service Manager
