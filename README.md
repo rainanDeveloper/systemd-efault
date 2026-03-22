@@ -1,3 +1,5 @@
+![download-16](https://github.com/user-attachments/assets/fde87c17-5a65-4602-bd9c-9dee01c62836)
+
 # Efault (Systemd-efault) - a non-compliant `systemd` fork: An Anti-Compliance Init
 A fork of systemd focused on preserving software freedom, user autonomy, and privacy - regardless of external regulatory pressures.
 Because "Just Following Orders" is not a valid configuration flag.
@@ -15,6 +17,8 @@ Efault (systemd-efault) is a hard fork of the systemd project. We track upstream
 - **No Red Hat registry-in-disguise** — everything unnecessary is compile-time murdered
 - **Musl support revived** (because why the hell not)
 - Classic runlevel compatibility and traditional tool fallbacks for actual human beings
+
+![download-15](https://github.com/user-attachments/assets/704e4b21-48a7-4ae7-a5ae-f25d0916e1e1)
 
 This isn't just a spite fork.  
 This is **the systemd fork Devuan users might actually tolerate** — the one you can build in "efault-mode" and feel like you're running a sane init system again instead of a corporate panopticon.
