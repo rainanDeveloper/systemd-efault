@@ -1,0 +1,13 @@
+[project options]
+mode = 'minimal'
+default-dnssec = false
+firstboot = false
+sysusers = false
+tmpfiles = false
+homed = false
+portabled = false
+networkd = false
+resolved = false
+timesyncd = false
+journal = false          # or 'auto' with text fallback
+# add more as you discover them
